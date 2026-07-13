@@ -29,6 +29,9 @@ A tabela é modelada utilizando uma matriz bidimensional onde as linhas represen
 ## Como Funciona o Algoritmo
 A Busca Tabu testa milhares de configurações silenciosamente, avaliando o custo através da função objetivo e aplicando os movimentos descritos. Utiliza uma **Lista Tabu** para evitar ficar presa em ótimos locais. O processo contínuo visa reduzir o custo operacional (ex: reduzindo penalidades na ordem de 1000 pontos) até encontrar uma solução ótima ou o limite de iterações sem melhorias globais ser alcançado.
 
+## Vídeo no Youtube
+https://youtu.be/9kmcjPUy9uw?si=84fvaZ8VtwYqwQ2N
+
 ## Referências Bibliográficas
 A modelagem e os conceitos extraídos baseiam-se em:
 1. HAMIEZ, J.-P.; HAO, J.-K. (2001). *Solving the sports league scheduling problem with tabu search*. Local Search for Planning and Scheduling, Springer.
